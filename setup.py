@@ -58,7 +58,7 @@ setup(
     install_requires=[
         'beautifulsoup4==4.7.1',
         'pyftpdlib==1.5.6',
-        'requests==2.20.1',
+        'requests>=2.4.3',
         'python-magic==0.4.15'
     ],
     license="MIT",
